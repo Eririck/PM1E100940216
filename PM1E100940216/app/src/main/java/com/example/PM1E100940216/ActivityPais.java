@@ -10,8 +10,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.pm1e1_0087_0012.configuraciones.SQLiteConexion;
-import com.example.pm1e1_0087_0012.configuraciones.Transacciones;
+import com.example.PM1E1_0094_0216.configuraciones.SQLiteConexion;
+import com.example.PM1E1_0094_0216.configuraciones.Transacciones;
 public class ActivityPais extends AppCompatActivity {
     EditText aptxtCodigo,aptxtPaís;
     Button apbtnGuardar, aptnAtras;

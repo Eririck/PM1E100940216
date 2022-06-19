@@ -14,9 +14,9 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import com.example.pm1e1_0087_0012.Clases.Pais;
-import com.example.pm1e1_0087_0012.configuraciones.SQLiteConexion;
-import com.example.pm1e1_0087_0012.configuraciones.Transacciones;
+import com.example.PM1E1_0094_0216.Clases.Pais;
+import com.example.PM1E1_0094_0216.configuraciones.SQLiteConexion;
+import com.example.PM1E1_0094_0216.configuraciones.Transacciones;
 
 import java.util.ArrayList;
 import java.util.List;

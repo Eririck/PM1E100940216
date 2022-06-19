@@ -12,8 +12,8 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.example.pm1e1_0087_0012.configuraciones.SQLiteConexion;
-import com.example.pm1e1_0087_0012.configuraciones.Transacciones;
+import com.example.PM1E1_0094_0216.configuraciones.SQLiteConexion;
+import com.example.PM1E1_0094_0216.configuraciones.Transacciones;
 
 import java.io.ByteArrayInputStream;
 public class ActivityVer1 extends AppCompatActivity {

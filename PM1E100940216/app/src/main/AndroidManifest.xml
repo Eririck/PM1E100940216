@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.PM1E1_0094_0216">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.PM1E100940216">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />
@@ -41,17 +42,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PM1E100940216">
         <activity
-            android:name=".ActivityVerFoto"
-            android:exported="false" />
+            android:name=".ActivityVer2"
+            android:exported="false"
+            tools:ignore="MissingClass" />
         <activity
             android:name=".ActivityActualizarContacto"
+            android:exported="false"
+            tools:ignore="MissingClass" />
+        <activity
+            android:name=".ActivityListado2"
             android:exported="false" />
         <activity
-            android:name=".ActivityListadoContacto"
-            android:exported="false" />
-        <activity
-            android:name=".ActivityPais"
-            android:exported="false" />
+            android:name=".Activitypais2"
+            tools:ignore="MissingClass" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

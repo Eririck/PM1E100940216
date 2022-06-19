@@ -1,4 +1,4 @@
-package com.example.PM1E1_0094_0216;
+package com.example.PM1E100940216;
 import android.content.Context;
 
 import androidx.test.platform.app.InstrumentationRegistry;
